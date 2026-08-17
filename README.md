@@ -1,9 +1,5 @@
 # Hi, I'm Sergi 👋
 
-I'm an **Infrastructure Engineer** with a background in **Software Engineering**, interested in systems administration, infrastructure, automation, virtualization and DevOps practices.
-
-I enjoy understanding how systems work end-to-end, from the operating system and network layer to containers, orchestration and deployment automation.
-
 ## 👨‍💻 About Me
 
 - 🖥️ Interested in **Systems Engineering and Infrastructure**
