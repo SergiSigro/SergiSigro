@@ -8,7 +8,6 @@
 - ⚙️ Interested in **automation and DevOps practices**
 - 🏗️ Learning and practicing **Infrastructure as Code**
 - 🏠 Building my own **Proxmox Homelab**
-- 🌐 Exploring virtualization, networking and infrastructure management
 - 🔧 I enjoy automating repetitive tasks and understanding how infrastructure works under the hood
 
 ---
@@ -52,19 +51,7 @@
 
 ## 🏠 Homelab
 
-I'm currently building my own **Proxmox-based homelab** to expand my knowledge of infrastructure and systems engineering outside of production environments.
-
-I'm using it to explore topics such as:
-
-- 🖥️ Virtual machines and virtualization
-- 🐧 Linux server administration
-- 🌐 Networking
-- 💾 Storage
-- 🏗️ Infrastructure provisioning with **Terraform**
-- ⚙️ Configuration management with **Ansible**
-- ☸️ Kubernetes
-- 📊 Monitoring and observability
-- 🔄 Infrastructure automation
+[View my Homelab Repository](https://github.com/SergiSigro/homelab)
 
 - ## 📫 Connect with me
 
